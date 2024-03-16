@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET for Windows Desktop and SQL Server solutions
 - 🌱 I’m always learning new things
 - 💞️ I’m looking to collaborate on new and exiting projects in any development stack
-- 📫 How to reach me kuklei@hotmail.com
+- 📫 How to reach me kkumbaro@gmail.com
 
 <!---
 kuklei/kuklei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
